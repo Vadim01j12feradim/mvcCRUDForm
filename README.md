@@ -1,9 +1,5 @@
 # <Nombre del Proyecto>
 
-<div align="center">
-  <img src="images/logo.png" alt="Logo del Proyecto" width="200">
-</div>
-
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
 
 Este es un proyecto simple de un CRUD completo de entre clientes y pedidos los cuales se encuentran relacionados, fue desarrollado en windows FORM con un estilo de programacion MVC,
