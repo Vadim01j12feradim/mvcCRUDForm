@@ -14,10 +14,7 @@ open connections ya que peuden llegar a ocacionar problemas en un entorno de des
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
-- [Uso](#uso)
 - [Licencia](#licencia)
-- [Agradecimientos](#agradecimientos)
-
 ## Instalación
 
 Para este proyecto se poseen unicamente dos archivos, el mprimero (mvc.rar) consta del proyecto en C#, para poder utilizarlo es necesario clonar el repositorio para disponer de los archivos mecnionados, para esto haremos uso del siguiete comando.
@@ -39,7 +36,7 @@ para el desarrollo de este proyecto ocacionaron algunos percances.
 
 ## Licencia
 
-La Licencia MIT es una licencia de software de código abierto que permite a los destinatarios utilizar, modificar y distribuir el software de manera libre y gratuita. A continuación, se presenta un resumen de los puntos clave de la Licencia MIT:
+La Licencia MIT es una licencia de software de código abierto que permite a los destinatarios utilizar, modificar y distribuir el software de manera libre y gratuita.
 
 - **Libertad para Usar:** Puedes hacer lo que quieras con este software.
 - **Libertad para Modificar:** Puedes modificar el código fuente según tus necesidades.
@@ -49,3 +46,5 @@ La Licencia MIT es una licencia de software de código abierto que permite a los
 ### Nota de Licencia
 
 Este proyecto utiliza la Licencia MIT para fomentar la colaboración y el intercambio en la comunidad de desarrollo de software. Al contribuir a este proyecto, aceptas y reconoces esta licencia.
+
+
