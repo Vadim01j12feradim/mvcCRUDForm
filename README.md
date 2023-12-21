@@ -43,8 +43,5 @@ La Licencia MIT es una licencia de software de código abierto que permite a los
 - **Libertad para Distribuir:** Puedes distribuir el software original o modificado de forma gratuita o comercial.
 - **Sin Garantía:** El software se proporciona "tal cual", sin garantía de ningún tipo. El uso es bajo tu propio riesgo.
 
-### Nota de Licencia
-
-Este proyecto utiliza la Licencia MIT para fomentar la colaboración y el intercambio en la comunidad de desarrollo de software. Al contribuir a este proyecto, aceptas y reconoces esta licencia.
 
 
