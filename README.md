@@ -5,9 +5,6 @@
 </div>
 
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
-[![Estrellas en GitHub](https://img.shields.io/github/stars/tu-usuario/tu-repo.svg)](https://github.com/tu-usuario/tu-repo/stargazers)
-[![Bifurcaciones en GitHub](https://img.shields.io/github/forks/tu-usuario/tu-repo.svg)](https://github.com/tu-usuario/tu-repo/network)
-[![Problemas en GitHub](https://img.shields.io/github/issues/tu-usuario/tu-repo.svg)](https://github.com/tu-usuario/tu-repo/issues)
 
 Descripción concisa y convincente de tu proyecto.
 
