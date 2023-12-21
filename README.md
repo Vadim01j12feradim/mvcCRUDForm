@@ -11,7 +11,7 @@ Este es un proyecto simple de un CRUD completo de entre clientes y pedidos, los 
 
 ## Instalación
 
-Para este proyecto, existen dos archivos `mvc.rar` y `mvc.sql. El primero, `mvc.rar`, consta del proyecto en C#. Para utilizarlo, es necesario clonar el repositorio para disponer de los archivos mencionados. Puedes hacerlo utilizando el siguiente comando:
+Para este proyecto, existen dos archivos `mvc.rar` y `mvc.sql`. El primero, `mvc.rar`, consta del proyecto en C#. Para utilizarlo, es necesario clonar el repositorio para disponer de los archivos mencionados. Puedes hacerlo utilizando el siguiente comando:
 
 ```bash
 git clone https://github.com/Vadim01j12feradim/mvcCRUDForm.git
