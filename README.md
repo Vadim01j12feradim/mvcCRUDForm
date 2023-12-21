@@ -11,12 +11,12 @@ Este es un proyecto simple de un CRUD completo de entre clientes y pedidos, los 
 
 ## Instalación
 
-Para este proyecto, hay dos archivos importantes. El primero, `mvc.rar`, consta del proyecto en C#. Para utilizarlo, es necesario clonar el repositorio para disponer de los archivos mencionados. Puedes hacerlo utilizando el siguiente comando:
+Para este proyecto, existen dos archivos `mvc.rar` y `mvc.sql. El primero, `mvc.rar`, consta del proyecto en C#. Para utilizarlo, es necesario clonar el repositorio para disponer de los archivos mencionados. Puedes hacerlo utilizando el siguiente comando:
 
 ```bash
 git clone https://github.com/Vadim01j12feradim/mvcCRUDForm.git
 ```
-El siguiente paso es precisamente importar la base de datos MySQL por lo que se incluye precisamente el archivo mvc.sql.
+El siguiente paso es precisamente importar la base de datos MySQL por lo que se incluye precisamente el archivo `mvc.sql`.
 Una vez se ha restablecido la base de datos abrir el proyecto con visual studio .NET para poder ejecutarlo.
 Es posible que se requieran los siguientes paquetes de nuggets.
 - Newtonsoft.Json
