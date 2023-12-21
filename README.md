@@ -21,8 +21,7 @@ Descripción concisa y convincente de tu proyecto.
 
 ## Instalación
 
-Proporciona instrucciones claras y concisas sobre cómo instalar tu proyecto. Incluye cualquier dependencia y requisitos previos necesarios.
+Para este proyecto se poseen unicamente dos archivos, el mprimero (mvc.rar) consta del proyecto en C#, para poder utilizarlo es necesario clonar el repositorio para disponer de los archivos mecnionados, para esto haremos uso del siguiete comando.
 
 ```bash
-# Ejemplo de comandos de instalación
-npm install
+git clone https://github.com/Vadim01j12feradim/mvcCRUDForm.git
