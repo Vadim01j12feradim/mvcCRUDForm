@@ -21,7 +21,7 @@ Una vez se ha restablecido la base de datos abrir el proyecto con visual studio 
 Es posible que se requieran los siguientes paquetes de nuggets.
 - Newtonsoft.Json
 - MySql.Data.MySqlClient - 8.0.32.1
-- # Ejecutar
+- Ejecutar
 
 
 Es importante instalar la versión mencionada de MySql.Data.MySqlClient ya que versiones superiores
