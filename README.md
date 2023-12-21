@@ -15,7 +15,6 @@ open connections ya que peuden llegar a ocacionar problemas en un entorno de des
 
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 - [Agradecimientos](#agradecimientos)
 
@@ -37,3 +36,16 @@ Es importante instalar la version mencionada de MySql.Data.MySqlClient ya que ve
 para el desarrollo de este proyecto ocacionaron algunos percances.
 
 - ** Ejecurar **
+
+## Licencia
+
+La Licencia MIT es una licencia de software de código abierto que permite a los destinatarios utilizar, modificar y distribuir el software de manera libre y gratuita. A continuación, se presenta un resumen de los puntos clave de la Licencia MIT:
+
+- **Libertad para Usar:** Puedes hacer lo que quieras con este software.
+- **Libertad para Modificar:** Puedes modificar el código fuente según tus necesidades.
+- **Libertad para Distribuir:** Puedes distribuir el software original o modificado de forma gratuita o comercial.
+- **Sin Garantía:** El software se proporciona "tal cual", sin garantía de ningún tipo. El uso es bajo tu propio riesgo.
+
+### Nota de Licencia
+
+Este proyecto utiliza la Licencia MIT para fomentar la colaboración y el intercambio en la comunidad de desarrollo de software. Al contribuir a este proyecto, aceptas y reconoces esta licencia.
