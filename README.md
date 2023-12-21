@@ -16,26 +16,27 @@ Para este proyecto, hay dos archivos importantes. El primero, `mvc.rar`, consta 
 ```bash
 git clone https://github.com/Vadim01j12feradim/mvcCRUDForm.git
 ```
-
-El siguiente paso es precisamente improtar la base de datos MySQL por lo que se inclye precisamente el archivo mvc.sql.
-Una vez se ha restablecida la base de datos abrir el proyecto con visual studio .NET para poder ejecutarlo.
-Es posible que se requiren los siguientes paquetes de nuggets.
+El siguiente paso es precisamente importar la base de datos MySQL por lo que se incluye precisamente el archivo mvc.sql.
+Una vez se ha restablecido la base de datos abrir el proyecto con visual studio .NET para poder ejecutarlo.
+Es posible que se requieran los siguientes paquetes de nuggets.
 - Newtonsoft.Json
 - MySql.Data.MySqlClient - 8.0.32.1
-- # Ejecurar
+- # Ejecutar
 
-Es importante instalar la version mencionada de MySql.Data.MySqlClient ya que versiones superiores
-para el desarrollo de este proyecto ocacionaron algunos percances.
+
+Es importante instalar la versión mencionada de MySql.Data.MySqlClient ya que versiones superiores
+para el desarrollo de este proyecto ocasionaron algunos percances.
+
+
 
 
 ## Licencia
 
+
 La Licencia MIT es una licencia de software de código abierto que permite a los destinatarios utilizar, modificar y distribuir el software de manera libre y gratuita.
+
 
 - **Libertad para Usar:** Puedes hacer lo que quieras con este software.
 - **Libertad para Modificar:** Puedes modificar el código fuente según tus necesidades.
 - **Libertad para Distribuir:** Puedes distribuir el software original o modificado de forma gratuita o comercial.
 - **Sin Garantía:** El software se proporciona "tal cual", sin garantía de ningún tipo. El uso es bajo tu propio riesgo.
-
-
-
