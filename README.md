@@ -25,6 +25,7 @@ Para este proyecto se poseen unicamente dos archivos, el mprimero (mvc.rar) cons
 
 ```bash
 git clone https://github.com/Vadim01j12feradim/mvcCRUDForm.git
+```
 
 El siguiente paso es precisamente improtar la base de datos MySQL por lo que se inclye precisamente el archivo mvc.sql.
 Una vez se ha restablecida la base de datos abrir el proyecto con visual studio .NET para poder ejecutarlo.
